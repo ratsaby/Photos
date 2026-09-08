@@ -4,10 +4,6 @@ Photographs by **Joel Ratsaby**.
 
 **Copyright © Joel Ratsaby. All rights reserved.**
 
-These are watermarked publication copies of photographs taken during trips in Norway. Each photograph is accompanied by an OpenTimestamps (`.ots`) proof.
-
-The OpenTimestamps proof provides cryptographic evidence that the corresponding file existed no later than its Bitcoin blockchain timestamp. The original, unwatermarked photographs and their separate timestamp proofs are retained privately.
-
 ## Photographs
 
 | Preview | Photograph | OpenTimestamps proof |
@@ -68,3 +64,9 @@ The OpenTimestamps proof provides cryptographic evidence that the corresponding 
 All photographs in this repository are copyrighted by Joel Ratsaby. No permission is granted to reproduce, redistribute, modify, publish, or use these photographs without prior permission from the copyright holder.
 
 The visible watermark and accompanying OpenTimestamps proofs are provided as provenance and copyright-identification measures.
+
+## Provenance
+
+These are watermarked publication copies of photographs taken during trips in Norway. Each photograph is accompanied by an OpenTimestamps (`.ots`) proof.
+
+The OpenTimestamps proof provides cryptographic evidence that the corresponding file existed no later than its Bitcoin blockchain timestamp. The original, unwatermarked photographs and their separate timestamp proofs are retained privately.
