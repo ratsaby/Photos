@@ -1,0 +1,2 @@
+#!/bin/zsh
+"/Applications/Apache NetBeans.app/Contents/Home/bin/java" -jar "./java-opentimestamps/target/OtsCli.jar" stamp "$1"

@@ -1,0 +1,1264 @@
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/28331D6A-94AF-46F1-8E32-3A5E70571C12_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/28331D6A-94AF-46F1-8E32-3A5E70571C12_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/28331D6A-94AF-46F1-8E32-3A5E70571C12_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/59057A40-2432-4F7F-AF61-A8912D459EC5_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/59057A40-2432-4F7F-AF61-A8912D459EC5_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/59057A40-2432-4F7F-AF61-A8912D459EC5_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/6A61F4F3-B74E-4905-805D-BFCC44585E2C_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/6A61F4F3-B74E-4905-805D-BFCC44585E2C_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/6A61F4F3-B74E-4905-805D-BFCC44585E2C_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/990BA987-41FF-472C-A6DF-AF903FAE2834_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/990BA987-41FF-472C-A6DF-AF903FAE2834_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/990BA987-41FF-472C-A6DF-AF903FAE2834_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/B1EAED1E-894D-423C-8EE4-CBE4C7325BA1_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/B1EAED1E-894D-423C-8EE4-CBE4C7325BA1_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/B1EAED1E-894D-423C-8EE4-CBE4C7325BA1_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/D4564A7D-5F6C-414A-89C2-E9F3AB0E93B0_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/D4564A7D-5F6C-414A-89C2-E9F3AB0E93B0_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/D4564A7D-5F6C-414A-89C2-E9F3AB0E93B0_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/DSC_0001_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/DSC_0001_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/DSC_0001_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/DSC_0290_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/DSC_0290_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/DSC_0290_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/E9B2D309-78D9-443D-9BDB-D12DA9ACB76C_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/E9B2D309-78D9-443D-9BDB-D12DA9ACB76C_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/E9B2D309-78D9-443D-9BDB-D12DA9ACB76C_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2416_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2416_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2416_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2482_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2482_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2482_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2483_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2483_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2483_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2535_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2535_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2535_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2625_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2625_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2625_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2626_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2626_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2626_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2694_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2694_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2694_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2712_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2712_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2712_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2714_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2714_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2714_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2715_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2715_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_2715_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3610_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3610_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3610_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3624_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3624_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3624_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3650_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3650_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3650_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3654_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3654_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3654_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3656_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3656_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3656_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3664_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3664_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3664_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3675_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3675_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3675_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3700_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3700_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3700_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3703_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3703_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3703_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3716_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3716_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3716_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3801_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3801_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3801_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3803_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3803_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3803_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3832_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3832_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3832_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3846_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3846_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3846_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3848_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3848_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3848_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3867_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3867_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3867_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3868_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3868_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3868_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3911_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3911_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3911_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3952_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3952_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3952_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3958_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3958_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_3958_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4076_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4076_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4076_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4100_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4100_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4100_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4105_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4105_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4105_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4106_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4106_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4106_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4125_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4125_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4125_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4129_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4129_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4129_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4165_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4165_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_4165_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_49842_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_49842_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_49842_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_49892_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_49892_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_49892_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_53092_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_53092_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_53092_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_53912_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_53912_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_53912_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54002_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54002_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54002_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54152_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54152_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54152_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54532_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54532_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54532_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54612_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54612_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54612_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54642_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54642_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54642_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54662_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54662_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_54662_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55192_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55192_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55192_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55392_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55392_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55392_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55532_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55532_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55532_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55642_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55642_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55642_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55652_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55652_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55652_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55962_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55962_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55962_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55972_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55972_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55972_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55992_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55992_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_55992_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56122_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56122_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56122_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56132_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56132_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56132_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56142_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56142_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56142_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56162_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56162_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56162_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56192_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56192_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_56192_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5625_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5625_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5625_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5634_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5634_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5634_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5635_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5635_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5635_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5660_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5660_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5660_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5661_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5661_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5661_watermarked.jpg'
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5662_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5662_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5662_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5663_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5663_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5663_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5664_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5664_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5664_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5665_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5665_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5665_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
+========================================
+Upgrading: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5666_watermarked.jpg.ots
+Success! Timestamp complete
+Verifying: /Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5666_watermarked.jpg.ots
+Assuming target filename is '/Users/ratsaby/Documents/MyStuff/My Wallpapers/WaterMarked/Norway/IMG_5666_watermarked.jpg'
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+https://blockstream.info/api/block-height/966114 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637
+https://blockstream.info/api/block/0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 BlockHeader{merkleroot='a96a33cf1e1af42c6fd90b05b3fdf6c0fa27426408050e8ffbca74f2a5af6a50', blockHash='0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637', time='1788904645'}
+Lite-client verification, assuming block 0000000000000000000031cd03c07dc2276103802bd319b6af1074ff91bd0637 is valid
+https://blockstream.info/api/block-height/966113 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b
+https://blockstream.info/api/block/00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b BlockHeader{merkleroot='fa7bf43b5973fc7401be8d7cc75622ad62a607b2f19312872736147d1e7716f9', blockHash='00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b', time='1788904074'}
+Lite-client verification, assuming block 00000000000000000002338168ad448de7c921026ac61282dfb829478a7df30b is valid
+Success! Bitcoin block 966113 attests data existed as of 2026-09-09 IDT
+Waiting 5 seconds...
