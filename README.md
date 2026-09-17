@@ -1,7 +1,5 @@
 # Norway Photographs
 
-Photographs by **Joel Ratsaby**.
-
 **© Joel Ratsaby. Watermarked photos may be downloaded for personal, non-commercial use. Please contact me for permission for publication or other reuse.**
 
 [View the Norway photo slideshow](https://ratsaby.github.io/Photos/)
