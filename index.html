@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Norway Photographs — Joel Ratsaby</title>
+
+<style>
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+#viewer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+#photo {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+button {
+    position: absolute;
+    border: none;
+    color: white;
+    background: rgba(0,0,0,0.45);
+    cursor: pointer;
+}
+
+#previous {
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 42px;
+    padding: 15px;
+}
+
+#next {
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 42px;
+    padding: 15px;
+}
+
+#play {
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 18px;
+    padding: 10px 18px;
+}
+
+#counter {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    background: rgba(0,0,0,0.45);
+    padding: 6px 10px;
+    border-radius: 4px;
+}
+</style>
+</head>
+
+<body>
+
+<div id="viewer">
+
+<img id="photo">
+
+<button id="previous">&#10094;</button>
+<button id="next">&#10095;</button>
+
+<button id="play">Play</button>
+
+<div id="counter"></div>
+
+</div>
+
+<script>
+
+const base =
+"https://raw.githubusercontent.com/ratsaby/Photos/main/";
+
+const files = [
+
+"28331D6A-94AF-46F1-8E32-3A5E70571C12_watermarked.jpg",
+"59057A40-2432-4F7F-AF61-A8912D459EC5_watermarked.jpg",
+"6A61F4F3-B74E-4905-805D-BFCC44585E2C_watermarked.jpg",
+"990BA987-41FF-472C-A6DF-AF903FAE2834_watermarked.jpg",
+"B1EAED1E-894D-423C-8EE4-CBE4C7325BA1_watermarked.jpg",
+"D4564A7D-5F6C-414A-89C2-E9F3AB0E93B0_watermarked.jpg",
+"DSC_0001_watermarked.jpg",
+"DSC_0290_watermarked.jpg",
+"E9B2D309-78D9-443D-9BDB-D12DA9ACB76C_watermarked.jpg",
+
+"IMG_2416_watermarked.jpg",
+"IMG_2482_watermarked.jpg",
+"IMG_2483_watermarked.jpg",
+"IMG_2535_watermarked.jpg",
+"IMG_2625_watermarked.jpg",
+"IMG_2626_watermarked.jpg",
+"IMG_2694_watermarked.jpg",
+"IMG_2712_watermarked.jpg",
+"IMG_2714_watermarked.jpg",
+"IMG_2715_watermarked.jpg",
+
+"IMG_3610_watermarked.jpg",
+"IMG_3624_watermarked.jpg",
+"IMG_3650_watermarked.jpg",
+"IMG_3654_watermarked.jpg",
+"IMG_3656_watermarked.jpg",
+"IMG_3664_watermarked.jpg",
+"IMG_3675_watermarked.jpg",
+"IMG_3700_watermarked.jpg",
+"IMG_3703_watermarked.jpg",
+"IMG_3716_watermarked.jpg",
+
+"IMG_3801_watermarked.jpg",
+"IMG_3803_watermarked.jpg",
+"IMG_3832_watermarked.jpg",
+"IMG_3846_watermarked.jpg",
+"IMG_3848_watermarked.jpg",
+"IMG_3867_watermarked.jpg",
+"IMG_3868_watermarked.jpg",
+"IMG_3911_watermarked.jpg",
+"IMG_3952_watermarked.jpg",
+"IMG_3958_watermarked.jpg",
+
+"IMG_4076_watermarked.jpg",
+"IMG_4100_watermarked.jpg",
+"IMG_4105_watermarked.jpg",
+"IMG_4106_watermarked.jpg",
+"IMG_4125_watermarked.jpg",
+"IMG_4129_watermarked.jpg",
+"IMG_4165_watermarked.jpg",
+
+"IMG_49842_watermarked.jpg",
+"IMG_49892_watermarked.jpg",
+"IMG_53092_watermarked.jpg",
+"IMG_53912_watermarked.jpg"
+
+];
+
+const photos = files.map(name => base + name);
+
+let current = 0;
+let timer = null;
+
+const photo = document.getElementById("photo");
+const counter = document.getElementById("counter");
+const playButton = document.getElementById("play");
+
+function showPhoto(number) {
+
+    current =
+        (number + photos.length) % photos.length;
+
+    photo.src = photos[current];
+
+    counter.textContent =
+        (current + 1) + " / " + photos.length;
+}
+
+document.getElementById("previous").onclick =
+    function () {
+        showPhoto(current - 1);
+    };
+
+document.getElementById("next").onclick =
+    function () {
+        showPhoto(current + 1);
+    };
+
+playButton.onclick = function () {
+
+    if (timer) {
+
+        clearInterval(timer);
+        timer = null;
+        playButton.textContent = "Play";
+
+    } else {
+
+        timer = setInterval(
+            function () {
+                showPhoto(current + 1);
+            },
+            6000
+        );
+
+        playButton.textContent = "Pause";
+    }
+};
+
+document.addEventListener(
+    "keydown",
+    function (event) {
+
+        if (event.key === "ArrowLeft")
+            showPhoto(current - 1);
+
+        if (event.key === "ArrowRight")
+            showPhoto(current + 1);
+
+        if (event.key === " ")
+            playButton.click();
+    }
+);
+
+showPhoto(0);
+
+</script>
+
+</body>
+</html>
