@@ -55,6 +55,35 @@
 | <img src="Norway/IMG_49892_watermarked.jpg" width="160"> | [IMG_49892_watermarked.jpg](Norway/IMG_49892_watermarked.jpg) | [`.ots`](Norway/IMG_49892_watermarked.jpg.ots) |
 | <img src="Norway/IMG_53092_watermarked.jpg" width="160"> | [IMG_53092_watermarked.jpg](Norway/IMG_53092_watermarked.jpg) | [`.ots`](Norway/IMG_53092_watermarked.jpg.ots) |
 | <img src="Norway/IMG_53912_watermarked.jpg" width="160"> | [IMG_53912_watermarked.jpg](Norway/IMG_53912_watermarked.jpg) | [`.ots`](Norway/IMG_53912_watermarked.jpg.ots) |
+| <img src="Norway/IMG_54002_watermarked.jpg" width="160"> | [IMG_54002_watermarked.jpg](Norway/IMG_54002_watermarked.jpg) | [`.ots`](Norway/IMG_54002_watermarked.jpg.ots) |
+| <img src="Norway/IMG_54152_watermarked.jpg" width="160"> | [IMG_54152_watermarked.jpg](Norway/IMG_54152_watermarked.jpg) | [`.ots`](Norway/IMG_54152_watermarked.jpg.ots) |
+| <img src="Norway/IMG_54532_watermarked.jpg" width="160"> | [IMG_54532_watermarked.jpg](Norway/IMG_54532_watermarked.jpg) | [`.ots`](Norway/IMG_54532_watermarked.jpg.ots) |
+| <img src="Norway/IMG_54612_watermarked.jpg" width="160"> | [IMG_54612_watermarked.jpg](Norway/IMG_54612_watermarked.jpg) | [`.ots`](Norway/IMG_54612_watermarked.jpg.ots) |
+| <img src="Norway/IMG_54642_watermarked.jpg" width="160"> | [IMG_54642_watermarked.jpg](Norway/IMG_54642_watermarked.jpg) | [`.ots`](Norway/IMG_54642_watermarked.jpg.ots) |
+| <img src="Norway/IMG_54662_watermarked.jpg" width="160"> | [IMG_54662_watermarked.jpg](Norway/IMG_54662_watermarked.jpg) | [`.ots`](Norway/IMG_54662_watermarked.jpg.ots) |
+| <img src="Norway/IMG_55192_watermarked.jpg" width="160"> | [IMG_55192_watermarked.jpg](Norway/IMG_55192_watermarked.jpg) | [`.ots`](Norway/IMG_55192_watermarked.jpg.ots) |
+| <img src="Norway/IMG_55392_watermarked.jpg" width="160"> | [IMG_55392_watermarked.jpg](Norway/IMG_55392_watermarked.jpg) | [`.ots`](Norway/IMG_55392_watermarked.jpg.ots) |
+| <img src="Norway/IMG_55532_watermarked.jpg" width="160"> | [IMG_55532_watermarked.jpg](Norway/IMG_55532_watermarked.jpg) | [`.ots`](Norway/IMG_55532_watermarked.jpg.ots) |
+| <img src="Norway/IMG_55642_watermarked.jpg" width="160"> | [IMG_55642_watermarked.jpg](Norway/IMG_55642_watermarked.jpg) | [`.ots`](Norway/IMG_55642_watermarked.jpg.ots) |
+| <img src="Norway/IMG_55652_watermarked.jpg" width="160"> | [IMG_55652_watermarked.jpg](Norway/IMG_55652_watermarked.jpg) | [`.ots`](Norway/IMG_55652_watermarked.jpg.ots) |
+| <img src="Norway/IMG_55962_watermarked.jpg" width="160"> | [IMG_55962_watermarked.jpg](Norway/IMG_55962_watermarked.jpg) | [`.ots`](Norway/IMG_55962_watermarked.jpg.ots) |
+| <img src="Norway/IMG_55972_watermarked.jpg" width="160"> | [IMG_55972_watermarked.jpg](Norway/IMG_55972_watermarked.jpg) | [`.ots`](Norway/IMG_55972_watermarked.jpg.ots) |
+| <img src="Norway/IMG_55992_watermarked.jpg" width="160"> | [IMG_55992_watermarked.jpg](Norway/IMG_55992_watermarked.jpg) | [`.ots`](Norway/IMG_55992_watermarked.jpg.ots) |
+| <img src="Norway/IMG_56122_watermarked.jpg" width="160"> | [IMG_56122_watermarked.jpg](Norway/IMG_56122_watermarked.jpg) | [`.ots`](Norway/IMG_56122_watermarked.jpg.ots) |
+| <img src="Norway/IMG_56132_watermarked.jpg" width="160"> | [IMG_56132_watermarked.jpg](Norway/IMG_56132_watermarked.jpg) | [`.ots`](Norway/IMG_56132_watermarked.jpg.ots) |
+| <img src="Norway/IMG_56142_watermarked.jpg" width="160"> | [IMG_56142_watermarked.jpg](Norway/IMG_56142_watermarked.jpg) | [`.ots`](Norway/IMG_56142_watermarked.jpg.ots) |
+| <img src="Norway/IMG_56162_watermarked.jpg" width="160"> | [IMG_56162_watermarked.jpg](Norway/IMG_56162_watermarked.jpg) | [`.ots`](Norway/IMG_56162_watermarked.jpg.ots) |
+| <img src="Norway/IMG_56192_watermarked.jpg" width="160"> | [IMG_56192_watermarked.jpg](Norway/IMG_56192_watermarked.jpg) | [`.ots`](Norway/IMG_56192_watermarked.jpg.ots) |
+| <img src="Norway/IMG_5625_watermarked.jpg" width="160"> | [IMG_5625_watermarked.jpg](Norway/IMG_5625_watermarked.jpg) | [`.ots`](Norway/IMG_5625_watermarked.jpg.ots) |
+| <img src="Norway/IMG_5634_watermarked.jpg" width="160"> | [IMG_5634_watermarked.jpg](Norway/IMG_5634_watermarked.jpg) | [`.ots`](Norway/IMG_5634_watermarked.jpg.ots) |
+| <img src="Norway/IMG_5635_watermarked.jpg" width="160"> | [IMG_5635_watermarked.jpg](Norway/IMG_5635_watermarked.jpg) | [`.ots`](Norway/IMG_5635_watermarked.jpg.ots) |
+| <img src="Norway/IMG_5660_watermarked.jpg" width="160"> | [IMG_5660_watermarked.jpg](Norway/IMG_5660_watermarked.jpg) | [`.ots`](Norway/IMG_5660_watermarked.jpg.ots) |
+| <img src="Norway/IMG_5661_watermarked.jpg" width="160"> | [IMG_5661_watermarked.jpg](Norway/IMG_5661_watermarked.jpg) | [`.ots`](Norway/IMG_5661_watermarked.jpg.ots) |
+| <img src="Norway/IMG_5662_watermarked.jpg" width="160"> | [IMG_5662_watermarked.jpg](Norway/IMG_5662_watermarked.jpg) | [`.ots`](Norway/IMG_5662_watermarked.jpg.ots) |
+| <img src="Norway/IMG_5663_watermarked.jpg" width="160"> | [IMG_5663_watermarked.jpg](Norway/IMG_5663_watermarked.jpg) | [`.ots`](Norway/IMG_5663_watermarked.jpg.ots) |
+| <img src="Norway/IMG_5664_watermarked.jpg" width="160"> | [IMG_5664_watermarked.jpg](Norway/IMG_5664_watermarked.jpg) | [`.ots`](Norway/IMG_5664_watermarked.jpg.ots) |
+| <img src="Norway/IMG_5665_watermarked.jpg" width="160"> | [IMG_5665_watermarked.jpg](Norway/IMG_5665_watermarked.jpg) | [`.ots`](Norway/IMG_5665_watermarked.jpg.ots) |
+| <img src="Norway/IMG_5666_watermarked.jpg" width="160"> | [IMG_5666_watermarked.jpg](Norway/IMG_5666_watermarked.jpg) | [`.ots`](Norway/IMG_5666_watermarked.jpg.ots) |
 
 ## Notes
 
